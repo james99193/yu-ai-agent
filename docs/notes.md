@@ -15,3 +15,4 @@ Notes and usage details for yu-ai-agent.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
